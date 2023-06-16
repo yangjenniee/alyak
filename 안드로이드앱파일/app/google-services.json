@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1096225180796",
+    "firebase_url": "https://my-application-8d0dd-default-rtdb.firebaseio.com",
+    "project_id": "my-application-8d0dd",
+    "storage_bucket": "my-application-8d0dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096225180796:android:6756e248e99cbec4a1cdf9",
+        "android_client_info": {
+          "package_name": "com.learntodroid.simplealarmclock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096225180796-f2vekqk2od6nk65f0g05hmfb16gj0jdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtcOza_z21WSopWQalqU-PP1Q_epE7diY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096225180796-f2vekqk2od6nk65f0g05hmfb16gj0jdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096225180796:android:57c717fd30cd31c4a1cdf9",
+        "android_client_info": {
+          "package_name": "com.sh.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096225180796-f2vekqk2od6nk65f0g05hmfb16gj0jdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtcOza_z21WSopWQalqU-PP1Q_epE7diY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096225180796-f2vekqk2od6nk65f0g05hmfb16gj0jdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
